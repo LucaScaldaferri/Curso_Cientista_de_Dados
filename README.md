@@ -1,4 +1,4 @@
-<img src="https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/blob/main/newebac_logo_black_half.png?raw=true" alt="ebac-logo">
+<img src="https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/blob/main/logo_ebac.png" alt="ebac-logo">
 
 # Curso: Profissão Cientista de Dados
 
