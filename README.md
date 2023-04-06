@@ -10,3 +10,4 @@
 [Módulo 5 - Limpeza e Preparação de Dados](https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%205%20-%20Limpeza%20e%20Prepara%C3%A7%C3%A3o%20de%20Dados/Exerc%C3%ADcio%201)<br>
 [Módulo 6 - Descritiva I](https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%206%20-%20Descritiva%20I)<br>
 [Módulo 7 - Árvores I](https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%207%20-%20%C3%81rvores%20I)<br>
+[Módulo 8 - Git-GitHub - Controle de versionamento] (https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%208%20-%20Git-GitHub%20-%20Controle%20de%20versionamento)<br>
