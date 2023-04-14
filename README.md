@@ -15,3 +15,4 @@
 [Módulo 10 - Descritiva II - Análise descritiva para resposta contínua](https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%2010%20-%20Descritiva%20II%20-%20An%C3%A1lise%20descritiva%20para%20resposta%20cont%C3%ADnua)<br>
 [Módulo 11 - Árvores II (Parte I árvore de regressão)](https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%2011%20-%20%C3%81rvores%20II%20(Parte%20I%20%C3%A1rvore%20de%20regress%C3%A3o))<br>
 [Módulo 12 - Regressão I](https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%2012%20-%20Regress%C3%A3o%20I)<br>
+[Módulo 13 - Regressão II](https://github.com/LucaScaldaferri/Curso_Cientista_de_Dados/tree/main/M%C3%B3dulo%2013%20-%20Regress%C3%A3o%20II)<br>
